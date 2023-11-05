@@ -1,0 +1,8 @@
+This folder contains the code used to make the diffusion models. 
+2D contains the file IllustrisTNG.ipynb, which is the code used to run the 2D diffusion model, visualise the outputs and evaluate them via power spectra.
+3D contains the same folder as https://github.com/DJodhun/PVDQ5, which is used to run the 3D diffusion model, and PVD Data Manipulation.ipynb, which contains the code used to make the dataset, visualise the inputs/outputs and compute the power spectra. 
+
+Below are the links to the datasets - email goyalrajat0412@gmail.com or davjodhun@gmail.com or cdavies.dev@gmail.com for assistance. 
+
+IllustrisTNG: https://drive.google.com/drive/folders/1SYTvOMnPpeVuzS1p_v07roJgKgi3x-pV
+Quijote: https://drive.google.com/file/d/1n4w60eEdlIu2veO8TfQ8OxTtTkWSvuJ2/view?usp=drive_link

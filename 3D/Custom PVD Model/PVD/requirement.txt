@@ -1,0 +1,4 @@
+trimesh
+open3d
+ninja
+gdown
